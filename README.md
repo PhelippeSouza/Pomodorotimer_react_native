@@ -4,15 +4,15 @@ POMODORO
 
 A Técnica Pomodoro é um método de gerenciamento de tempo desenvolvido por Francesco Cirillo no final dos anos 1980. A técnica usa um cronômetro para dividir o trabalho em intervalos, tradicionalmente de 25 minutos de duração, separados por intervalos curtos - 5 minutos.
 
-Link para baixa APK Android
+Link para baixar o APK Android
 https://expo.dev/artifacts/1e752db1-21ff-460c-b058-fb266598365a
 
 Instalação
 
 # Baixar o repositório
 https://github.com/PhelippeSouza/Pomodorotimer_react_native
-Navega até a branch de teste (develop) com git checkout develop
-yarn install
+Navega até a branch de teste (develop) com git checkout develop, 
+yarn install/
 expo start 
 
 Para testar baixe
