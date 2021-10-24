@@ -14,14 +14,16 @@ Navega até a branch de teste (develop) com git checkout develop,
 yarn install/
 expo start 
 
-Para testar baixe
+# Baixe o expo no seu dispositivo
 Android : https://play.google.com/store/apps/details?id=host.exp.exponent
 Iphone: https://apps.apple.com/br/app/expo-go/id982107779
 
-para Android, rode expo start e leia o Qr code que aparece  no Browser assim que o projeto iniciar.
-para iphone copie e cole o endereço que aparece no Browser também quando o projeto iniciar.
 
-Link para baixar o APK Android
+- Para Android, rode expo start e leia o Qr code que aparece  no Browser assim que o projeto iniciar.
+- Para iphone copie e cole o endereço que aparece no Browser também quando o projeto iniciar.
+
+
+# Link para baixar APK Android
 https://expo.dev/artifacts/1e752db1-21ff-460c-b058-fb266598365a
 
 
