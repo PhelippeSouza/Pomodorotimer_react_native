@@ -11,8 +11,11 @@ Instalação
 # Baixar o repositório
 https://github.com/PhelippeSouza/Pomodorotimer_react_native
 Navega até a branch de teste (develop) com git checkout develop
--yarn install
--expo start 
+
+
+yarn install
+
+expo start 
 
 # Baixe o expo no seu dispositivo
 Android : https://play.google.com/store/apps/details?id=host.exp.exponent
