@@ -12,17 +12,12 @@ const styles = StyleSheet.create({
     fontSize: 78,
     fontWeight: "bold",
   },
-  buttoncontainer: {
+  buttonContainer: {
     justifyContent: "space-between",
     alignItems: "center",
     flexDirection: "row",
   },
-  startbutton: {
-    backgroundColor: "white",
-    height: 30,
-    width: 60,
-    borderRadius: 10,
-  },
+
   button: {
     backgroundColor: "#435786",
     width: "50%",
@@ -38,6 +33,19 @@ const styles = StyleSheet.create({
   },
   buttonOutilineText: {
     color: "rgb(76, 145, 149)",
+    fontWeight: "700",
+    fontSize: 16,
+  },
+
+  buttonOutlineStop: {
+    backgroundColor: "rgb(236, 223, 200)",
+    marginTop: 5,
+    borderColor: "white",
+    borderWidth: 2,
+  },
+
+  buttonOutilineTextStop: {
+    color: "rgb(217, 85, 80)",
     fontWeight: "700",
     fontSize: 16,
   },

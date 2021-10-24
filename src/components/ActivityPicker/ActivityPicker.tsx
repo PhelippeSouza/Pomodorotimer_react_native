@@ -14,8 +14,9 @@ const TimePicker = () => {
     if (!selecatividade) {
       navigation.navigate("ActivityTimer");
       setSelectAtividade(true);
-    } else if (selecatividade) {
+    } else{
       navigation.navigate("BreakPage");
+      
     }
   };
 
